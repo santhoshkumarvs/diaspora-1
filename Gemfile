@@ -94,7 +94,7 @@ gem "sprockets-es6",     "0.9.2"
 gem "handlebars_assets", "0.23.2"
 gem "jquery-rails",      "4.3.1"
 gem "js-routes",         "1.4.3"
-gem "js_image_paths",    "0.1.1"
+gem "js_image_paths", "0.1.1"
 
 source "https://rails-assets.org" do
   gem "rails-assets-jquery",                              "3.2.1" # Should be kept in sync with jquery-rails
@@ -139,7 +139,7 @@ gem "rails-i18n",           "5.1.1"
 gem "markerb",             "1.1.0"
 
 # Map
-gem "leaflet-rails",       "1.3.1"
+gem "leaflet-rails", "1.3.1"
 
 # Parsing
 
@@ -192,7 +192,7 @@ gem "typhoeus",           "1.3.0"
 
 gem "gon",                     "6.2.0"
 gem "hamlit",                  "2.8.8"
-gem "mobile-fu",               "1.4.0"
+gem "mobile-fu", "1.4.0"
 gem "rails-timeago",           "2.16.0"
 gem "will_paginate",           "3.1.6"
 
@@ -286,7 +286,7 @@ group :test do
 
   gem "capybara",           "2.18.0"
   gem "database_cleaner",   "1.6.2"
-  gem "poltergeist",        "1.17.0"
+  gem "poltergeist", "1.17.0"
 
   gem "cucumber-api-steps", "0.14", require: false
 
